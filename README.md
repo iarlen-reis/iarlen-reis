@@ -1,6 +1,6 @@
 ## Olá pessoal!! 🫡
 
-<img align="right" src=".github/image.png" width="300"/> 
+<img align="right" src="./github/image.png" width="300"/> 
 
 Me chamo Iarlen Reis, tenho 21 anos, moro em Salvador-BA e sou **estudante front-end**.
 
