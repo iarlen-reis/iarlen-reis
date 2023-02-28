@@ -20,9 +20,4 @@ Me chamo Iarlen Reis, tenho 21 anos, moro em Salvador-BA e sou **estudante front
 [![](https://img.shields.io/badge/Html-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB&style=plastic)]()
 [![](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=61DAFB&style=plastic)]()
 
-## 📫 Contatos
-
-[![Twitter Badge](https://img.shields.io/badge/@1st_iarlen-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/1st_iarlen)](https://twitter.com/1st_iarlen)
-[![Instagram Badge](https://img.shields.io/badge/@1st_iarlen-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/1st_iarlen)](https://instagram.com/1st_iarlen)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iarlen-reis&theme=modern-lilac2&border_radius=5.2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iarlen-reis&theme=holi-theme&border_radius=5.2)](https://git.io/streak-stats)
