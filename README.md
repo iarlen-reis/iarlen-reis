@@ -20,5 +20,5 @@ Me chamo Iarlen Reis, tenho 21 anos, moro em Salvador-BA e sou **estudante front
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <a href="https://github.com/iarlen-reis">
-<img height="180em" src="github-readme-stats-xi-plum.vercel.app/api?username=iarlen-reis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="github-readme-stats-xi-plum.vercel.app/api/top-langs/?username=iarlen-reis&layout=normal&langs_count=4&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-xi-plum.vercel.app/api?username=iarlen-reis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-xi-plum.vercel.app/api/top-langs/?username=iarlen-reis&layout=normal&langs_count=4&theme=dark"/>
